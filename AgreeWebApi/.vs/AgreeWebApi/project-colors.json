@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "653907a5-728f-4b86-b54d-c3e6a98b2ba0": {
+      "ProjectGuid": "653907a5-728f-4b86-b54d-c3e6a98b2ba0",
+      "DisplayName": "AgreeWebApi",
+      "ColorIndex": 0
+    },
+    "f29122e6-71ce-4654-a70b-3aad4a96c371": {
+      "ProjectGuid": "f29122e6-71ce-4654-a70b-3aad4a96c371",
+      "DisplayName": "AgreeASPWebApi",
+      "ColorIndex": 1
+    },
+    "d45ba483-fcf1-41d1-8a56-eb387e38e410": {
+      "ProjectGuid": "d45ba483-fcf1-41d1-8a56-eb387e38e410",
+      "DisplayName": "AgreeASPWebApi",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "055d327c-15fc-4fd5-8d36-36d6a54d2fe1": {
+      "ProjectGuid": "055d327c-15fc-4fd5-8d36-36d6a54d2fe1",
+      "DisplayName": "AgreeBWebApi",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
